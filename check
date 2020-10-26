@@ -44,14 +44,8 @@ http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in.m3u8
 #EXTINF:-1,Doyel IPTV [BD]
 http://doyeltv1.flashmediacast.com:1935/doyeltv/livestream/chunklist_w2144659225.m3u8
 
-#EXTINF:-1,Jonaki IPTV [BD]
-https://iptv10.raytahost.com/live/jonaki/index.m3u8
-
 #EXTINF:-1,G Bangla IPTV [BD]
 https://iptv8.raytahost.com/lite/gbangla_hi/index.m3u8
-
-#EXTINF:-1,Onubhuti IPTV [BD]
-http://149.28.147.59/live/onuvhuti/index.m3u8
 
 #EXTINF:-1,Deshi IPTV [BD]
 http://72.139.72.18:1935/live/myStream/chunklist_w1702774192.m3u8
@@ -329,9 +323,6 @@ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?@amarnettv.live
 #EXTINF:-1,Discovery HD [BANGLA]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
 
-#EXTINF:-1,History TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.ts
-
 #EXTINF:-1,Viasat History
 http://live-ng-01.more.tv/hls/Viasat_History_HD/index_1.m3u8
 
@@ -427,9 +418,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts?@amarnettv.live
 
 #EXTINF:-1,Star Sports Select 1 HD (1)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
-
-#EXTINF:-1,Star Sports Select 2 HD (1)
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 
 #EXTINF:-1,Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?@amarnettv.live
@@ -809,9 +797,6 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:-1,BEK SPORTS
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 
-#EXTINF:-1,44.Probashi Bangla
-http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8
-
 #EXTINF:-1,50.NRB Connect
 http://vod.beeiptv.com:8081/NRB/nrbconnect/chunks.m3u8
 
@@ -842,9 +827,6 @@ https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x
 #EXTINF:-1,77.Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
 
-#EXTINF:-1,85.ABP Ananda
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
-
 #EXTINF:-1,92.Zee TV HD USA
 http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8
 
@@ -865,12 +847,6 @@ http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,102.Zee Anmol Cinama
 https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
-
-#EXTINF:-1,127.Disney XD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
-
-#EXTINF:-1,132.Discovery Bangla
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
 
 #EXTINF:-1,137.BBC Earth
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
@@ -910,9 +886,6 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
 #EXTINF:-1,193.Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-
-#EXTINF:-1,194.Bollywood TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 
 #EXTINF:-1,196.Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
@@ -1007,14 +980,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index
 #EXTINF:-1,2.Ekattor HD [Extra]
 http://ctgiptv.kitv.live:1935/live/test/test1/11.m3u8
 
-#EXTINF:-1,112.Star Jalsha HD [Extra]
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
-
 #EXTINF:-1,Star Jalsha
 https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
-
-#EXTINF:-1,MTV Europe
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
 #EXTINF:-1,NHKWorld Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8
@@ -1030,9 +997,6 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 
 #EXTINF:-1,ET Now
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
-
-#EXTINF:-1,ITV1 UK
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 
 #EXTINF:-1,Pop Pataka
 https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
@@ -1058,29 +1022,17 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusin
 #EXTINF:-1,TV5Monde Pacifique
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
 
-#EXTINF:-1,TV5Monde Asie
-https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
-
 #EXTINF:-1,TV5Monde Asie RU
 https://tv5asieru-i.akamaihd.net/hls/live/651800/tv5asieru/index.m3u8
 
 #EXTINF:-1,TV5Monde Asie France
 https://tv5asiehls-i.akamaihd.net/hls/live/630201/tv5asiehls/index.m3u8
 
-#EXTINF:-1,BFM TV
-https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
-
-#EXTINF:-1,Ant1
-https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8
-
 #EXTINF:-1,Film Detective
 https://distro.akamaized.net/indexfd_1280x720.m3u8
 
 #EXTINF:-1,Ditty TV
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
-
-#EXTINF:-1,Discovery Realtime
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
 
 #EXTINF:-1,Discovery Giallo
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
@@ -1126,6 +1078,3 @@ https://gma2.blab.email/espn2.m3u8
 
 #EXTINF:-1,CGTN News
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-
-#EXTINF:-1,Dove Channel
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
